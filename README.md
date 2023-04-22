@@ -28,7 +28,7 @@ Submitted by - Vedansh Nigam
 - Parsing the second xml file 
 - Extracting data
 - Storing the extracted data as a csv file
-- Uploading the csv to an Amazom S3 bucket
+- Uploading the csv to an Amazon S3 bucket
 
 # Limitations :
 - Had to manually download the zip file from the extracted download link
