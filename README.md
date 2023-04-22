@@ -17,9 +17,9 @@ Submitted by - Vedansh Nigam
 - dataset.csv : Data extracted from the xml file as per the requirement.           
           
 # Instructions: 
-- Dowload the folder as zip
+- Download the folder as zip
 - Please make sure that the DLTINS_20210117.zip file is present before starting execution
-- Run the setup.py file to ensure all Requirements are met
+- Run the setup.py file to ensure all requirements are met
 - Run the main.py file
 
 # Requirements achieved : 
