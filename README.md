@@ -1,5 +1,5 @@
 # SteelEye-DataEnginneer-Assessment
-# Assigment for SteelEye Data ENgineer Assessment
+# Assigment for SteelEye Data Engineer Assessment
 
 Link for the csv file : https://steeleye-bucket-1.s3.ap-south-1.amazonaws.com/final-data.csv
 
